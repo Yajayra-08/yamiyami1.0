@@ -1,0 +1,50 @@
+.todonosotros{
+    margin: 5% 5%;
+}
+
+.tmision{
+    font-size: 2em;
+    font-family:  "Book Antiqua";
+    letter-spacing: 2px;
+    font-stretch: ultra-condensed;
+    
+}
+.parrafo{
+    margin-top: -50px;
+    max-width: 100%;
+    display: flex;
+}
+.parrafo1{
+    width: 40%;
+    text-align: justify;
+    margin-right: 5%;
+    font-size: 1.5em;
+}
+.img1{
+    margin-top: 2%;
+    width: 50%;
+    height: 250px;
+}
+
+.tvision{
+    font-size: 2em;
+    font-family:  "Book Antiqua";
+    letter-spacing: 2px;
+    font-stretch: ultra-condensed;
+    text-align: right;
+    margin-right: 5%;
+    
+}
+.parrafo2{
+    width: 50%;
+    text-align: justify;
+    margin-left: 5%;
+    font-size: 1.5em;
+
+}
+.img2{
+    margin-top: 2%;
+    width: 40%;
+    height: 250px;
+    
+}
